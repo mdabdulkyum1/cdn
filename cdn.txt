@@ -1,0 +1,19 @@
+// cursor animation cnd
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/mdabdulkyum1/c-a@main/style.css">
+<script src="https://cdn.jsdelivr.net/gh/mdabdulkyum1/c-a@main/main.js"></script>
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+// Bubble cdn
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/mdabdulkyum1/my-styles-and-scripts@main/style.css">
+<script src="https://cdn.jsdelivr.net/gh/mdabdulkyum1/my-styles-and-scripts@main/scripts.js"></script>
+
+
+ <!-- bubble -->
+// must use inside the body tag
+    <div class="bubble-container" id="bubble-container"></div>
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+i have 5 commits in my repo and 2 branch main and test branch now i have test branch and commit switch 2 and then how to switch at latests commits
